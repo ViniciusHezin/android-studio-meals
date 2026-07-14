@@ -7,7 +7,6 @@
 ![Room SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Screenshots & Demo
-*(Add a 2x2 grid of screenshots here showing the main search screen, the populated Room database list, the parsed web service results, and the meal details screen).*
 MainScreen:
 <img width="484" height="765" alt="image" src="https://github.com/user-attachments/assets/327c969a-caf7-4cb2-94fd-5200ffa5bb99" />
 Searching By Ingredient Screen:
